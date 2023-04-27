@@ -1,4 +1,4 @@
-import { FC, useCallback, useEffect, useState } from 'react';
+import { FC, useEffect, useState } from 'react';
 import { Configuration, OpenAIApi } from "openai";
 
 export const ChatGPTApp: FC = () => {
